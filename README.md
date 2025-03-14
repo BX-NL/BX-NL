@@ -6,9 +6,21 @@
 
 ## 介绍 About Me
 
-你好，这里是碧霄-凝落，你可以叫我凝落。
+>**你好，这里是碧霄-凝落，你可以叫我凝落。**
 
-Hello, here is Bechow·Ninglog, you can call me Ninglog.
+>**Hello, here is Bechow·Ninglog, you can call me Ninglog.**
+
+>**一个永远可爱的十七岁美少女。** ~~真的~~
+
+>**A forever lovely seventeen-year-old beautiful-girl.** ~~Sure~~
+
+>**喜欢奇思妙想，想法很多，但是代码写得一坨。**
+
+>**I love brainstorming and have many ideas, but the code is a mess**
+
+>**如果你对我感兴趣，就点个小关注吧。**
+
+>**If you're interested in me, just give me a little follow.**
 
 ---
 
@@ -44,10 +56,10 @@ Hello, here is Bechow·Ninglog, you can call me Ninglog.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/BX-NL">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=BX-NL&theme=transparent&title_color=66CCFF&border_radius=25&show_icons=true&include_all_commits=true&number_format=long&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BX-NL&theme=transparent&title_color=66CCFF&border_radius=25&show_icons=true&include_all_commits=true&number_format=long&rank_icon=github" />
 </a>
 <a href="https://github.com/BX-NL">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BX-NL&theme=transparent&title_color=66CCFF&border_radius=25&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BX-NL&theme=transparent&title_color=66CCFF&border_radius=25&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ---
