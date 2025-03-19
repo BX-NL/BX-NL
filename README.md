@@ -28,9 +28,9 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 技术和工具 Technologies & Tools
 
-### Languages
+### 语言 Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -46,14 +46,13 @@
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
-### Tools & Platforms
+### 工具和平台 Tools & Platforms
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,linux,git,vim,vscode,powershell,docker,photoshop,blender&theme=light)](https://skillicons.dev)
 
 ---
 
-## 📈 GitHub Stats
+## 统计 Stats
 
 <a href="https://github.com/BX-NL">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BX-NL&theme=transparent&title_color=66CCFF&border_radius=25&show_icons=true&include_all_commits=true&number_format=long&rank_icon=github" />
@@ -64,14 +63,16 @@
 
 ---
 
-## 📊 Github Contributions
+## 贡献 Contributions
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BX-NL&bg_color=FFFFFF&color=66CCFF&line=39C5BB&point=FFC0C0&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ---
 
-## 🚀 Projects
+## 项目 Projects
+
+目前正在做的
 
 I’m currently working on
 
@@ -80,8 +81,6 @@ I’m currently working on
 
 ---
 
-## 📫 Let's Connect!
-
----
+## 联系我 Let's Connect!
 
 ⭐️ From [凝落 (BX-NL)](https://github.com/BX-NL)
