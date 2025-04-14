@@ -72,15 +72,54 @@
 
 ## 项目 Projects
 
-目前正在做的
+**目前正在做的**
 
-I’m currently working on
+**I’m currently working on**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
+
+**以后会做的**
+
+**ToDo**
+
+1.Surface++
+
+>苏菲加加，一个专为Surface制作的工具箱，集成一堆实用性的小工具。
+
+>Surface Pro Plus, A toolkit made for Surface, integrating some useful gadgets.
+
+>Base on : Python、Shell
+
+    仪表盘、屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
+    Dashboar, Screen Gamepa, OBS To Websit, Process Killer(Work for Surface Book)
+
+    快捷翻译，有[A-Tiny-Translator]在，需要研究一下笔怎么用。
+    Quick translation, There is [A-Tiny-Translator], I need to study how to use the surface pen.
+    
+
+2.Video Box
+
+>视频盒子，用于Windows小型设备连接电视播放，包含安卓手机控制的部分。
+
+>Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Android Mobile Phone.
+
+>Base on : Python、Shell、Java/Kotlin、ArkTS?
+
+    哔哩哔哩YOLOv5识别，手机作为遥控。
+    Bilibili with YOLOv5, Use Mobile Phone to remote control.
+
+    荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
+    Use Mobile Phone switch video in jianpian, I haven't figured out how to do it yet.Maybe fill search box in first, and then use OCR to auto choose.
+
+0.Want Partner
+
+>如果你闲着没事，还和我有相同的想法，欢迎完善以上的创意
+
+>If you're idle and have the same idea as me, you're welcome to refine the above ideas
 
 ---
 
 ## 联系我 Let's Connect!
 
-⭐️ From [凝落 (BX-NL)](https://github.com/BX-NL)
+⭐️ From [碧霄-凝落 (BX-NL)](https://github.com/BX-NL)
