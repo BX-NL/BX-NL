@@ -106,6 +106,10 @@
     荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
     Use Mobile Phone switch video in jianpian, I haven't figured out how to do it yet.Maybe fill search box in first, and then use OCR to auto choose.
 
+3.Galgame Manager
+
+>管理本地Galgame
+
 0.Want Partner
 
 >如果你闲着没事，还和我有相同的想法，欢迎完善以上的创意
