@@ -78,25 +78,19 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Surface-Pro-Plus)](https://github.com/BX-NL/Surface-Pro-Plus)
 
 **以后会做的**
 
 **ToDo**
 
-1.Surface++
+1.Screen Gamepad
 
->苏菲加加，一个专为Surface制作的工具箱，集成一堆实用性的小工具。
+>Windows触屏手柄，给Surface做的。
 
->Surface Pro Plus, A toolkit made for Surface, integrating some useful gadgets.
+>Touch Screen Gamepad on Windows, Design for Surface.
 
->Base on : Python、Shell
-
-    仪表盘、屏幕手柄、OBS网页推流、结束进程（用于Surface Book）
-    Dashboar, Screen Gamepa, OBS To Websit, Process Killer(Work for Surface Book)
-
-    快捷翻译，有[A-Tiny-Translator]在，需要研究一下笔怎么用。
-    Quick translation, There is [A-Tiny-Translator], I need to study how to use the surface pen.
-    
+>Base on : Python, Shell, Kivy, vgamepad
 
 2.Video Box
 
