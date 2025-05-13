@@ -79,20 +79,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Surface-Pro-Plus)](https://github.com/BX-NL/Surface-Pro-Plus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Touch-Gamepad)](https://github.com/BX-NL/Touch-Gamepad)
 
 **以后会做的**
 
 **ToDo**
 
-1.Screen Gamepad
-
->Windows触屏手柄，给Surface做的。
-
->Touch Screen Gamepad on Windows, Design for Surface.
-
->Base on : Python, Shell, Kivy, vgamepad
-
-2.Video Box
+1.Video Box
 
 >视频盒子，用于Windows小型设备连接电视播放，包含安卓手机控制的部分。
 
@@ -106,7 +99,7 @@
     荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
     Use Mobile Phone switch video in jianpian, I haven't figured out how to do it yet.Maybe fill search box in first, and then use OCR to auto choose.
 
-3.Galgame Manager
+2.Galgame Manager
 
 >管理本地Galgame
 
