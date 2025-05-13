@@ -91,7 +91,7 @@
 
 >Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Android Mobile Phone.
 
->Base on : Python、Shell、Java/Kotlin、ArkTS?
+>Base on : Pytho, Shel, Java/Kotli, ArkTS?
 
     哔哩哔哩YOLOv5识别，手机作为遥控。
     Bilibili with YOLOv5, Use Mobile Phone to remote control.
@@ -102,6 +102,18 @@
 2.Galgame Manager
 
 >管理本地Galgame
+
+>A softwave to manage Galgame in local PC.
+
+3.视频网站
+
+>动漫、漫画、游戏、小说，以及一切你所期盼的。
+
+>Anima, Comic, Game, Novel, and everything you looking forward to.
+
+>你所热爱的，就是你的XX。
+
+>Base on : Java, Python, MySQL, HTML
 
 0.Want Partner
 
