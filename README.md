@@ -105,9 +105,11 @@
 
 >A softwave to manage Galgame in local PC.
 
+>Base on : Python, PyQT, Shell
+
 3.视频网站
 
->动漫、漫画、游戏、小说，以及一切你所期盼的。
+>动漫、漫画、游戏、小说，以及你所期盼的一切。
 
 >Anima, Comic, Game, Novel, and everything you looking forward to.
 
