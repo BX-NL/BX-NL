@@ -78,8 +78,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Surface-Pro-Plus)](https://github.com/BX-NL/SurfaceProPlus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Touch-Gamepad)](https://github.com/BX-NL/TouchGamepad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=SurfaceProPlus)](https://github.com/BX-NL/SurfaceProPlus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=TouchGamepad)](https://github.com/BX-NL/TouchGamepad)
 
 **以后会做的**
 
@@ -118,6 +118,10 @@
 >Base on : Java, Python, MySQL, HTML
 
 4.小黑盒视奸器
+
+>可能会做，当爬虫练手了
+
+>Base on : Python, Requests, JSON 
 
 0.Want Partner
 
