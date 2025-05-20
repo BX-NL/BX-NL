@@ -78,8 +78,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Surface-Pro-Plus)](https://github.com/BX-NL/Surface-Pro-Plus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Touch-Gamepad)](https://github.com/BX-NL/Touch-Gamepad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Surface-Pro-Plus)](https://github.com/BX-NL/SurfaceProPlus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=Touch-Gamepad)](https://github.com/BX-NL/TouchGamepad)
 
 **以后会做的**
 
