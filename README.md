@@ -117,12 +117,6 @@
 
 >Base on : Java, Python, MySQL, HTML
 
-4.小黑盒视奸器
-
->可能会做，当爬虫练手了
-
->Base on : Python, Requests, JSON 
-
 0.Want Partner
 
 >如果你闲着没事，还和我有相同的想法，欢迎完善以上的创意
