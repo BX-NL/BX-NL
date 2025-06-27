@@ -91,7 +91,7 @@
 
 >Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Android Mobile Phone.
 
->Base on : Pytho, Shel, Java/Kotli, ArkTS?
+>Base on : Python, Shell, Java, XML, ArkTS?
 
     哔哩哔哩YOLOv5识别，手机作为遥控。
     Bilibili with YOLOv5, Use Mobile Phone to remote control.
