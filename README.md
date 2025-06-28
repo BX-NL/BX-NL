@@ -119,7 +119,7 @@
 
 >Base on : Java, Python, MySQL, HTML
 
-    未来可期
+    难搞，未来可期
 
 0.Want Partner
 
