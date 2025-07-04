@@ -119,7 +119,7 @@
 
 >你所热爱的，就是你的XX。
 
->Base on : Java, Python, MySQL, HTML
+>Base on : Java, Python, MySQL, Redis, HTML
 
     难搞，未来可期
 
