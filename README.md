@@ -87,9 +87,9 @@
 
 1.Video Box
 
->视频盒子，用于Windows小型设备连接电视播放，包含安卓手机控制的部分。
+>视频盒子，用于Windows小型设备连接电视播放，包含手机控制的部分。
 
->Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Android Mobile Phone.
+>Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Mobile Phone.
 
 >Base on : Python, Shell, Java, XML, ArkTS?
 
