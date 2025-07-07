@@ -93,8 +93,8 @@
 
 >Base on : Python, Shell, Java, XML, ArkTS?
 
-    哔哩哔哩YOLOv5识别，手机作为遥控。
-    Bilibili with YOLOv5, Use Mobile Phone to remote control.
+    哔哩哔哩：手机作为遥控，可考虑YOLOv5识别广告。
+    Bilibili: Use Mobile Phone to remote control, skip ads with YOLOv5.
 
     荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
     Use Mobile Phone switch video in jianpian, I haven't figured out how to do it yet.Maybe fill search box in first, and then use OCR to auto choose.
