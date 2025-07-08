@@ -93,7 +93,7 @@
 
 >Base on : Python, Shell, Java, XML, ArkTS?
 
-    哔哩哔哩：手机作为遥控，可考虑YOLOv5识别广告。
+    哔哩哔哩：手机作为遥控，考虑使用YOLOv5识别跳过广告。
     Bilibili: Use Mobile Phone to remote control, skip ads with YOLOv5.
 
     荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
