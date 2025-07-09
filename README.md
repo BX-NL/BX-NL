@@ -110,6 +110,7 @@
 >Base on : Python, PyQT, Shell
 
     自动扫描、修改封面、修改名称、鼠标悬停显示多语言名称、存档云备份
+    Auto scaning, change cover, change name, show multi language when mouse aim, save saves to cloud.
 
 3.视频网站
 
