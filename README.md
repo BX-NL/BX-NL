@@ -81,7 +81,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=SurfaceProPlus)](https://github.com/BX-NL/SurfaceProPlus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=TouchGamepad)](https://github.com/BX-NL/TouchGamepad)
 
-**以后会做的**
+**以后会做的**   ~~梦到什么说什么~~
 
 **ToDo**
 
@@ -91,7 +91,7 @@
 
 >Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Mobile Phone.
 
->Base on : Python, Shell, Java, XML, ArkTS?
+>Base on : Python, Shell, Java/Kotlin, XML, ArkTS?
 
     哔哩哔哩：手机作为遥控，考虑使用YOLOv5识别跳过广告。
     Bilibili: Use Mobile Phone to remote control, skip ads with YOLOv5.
