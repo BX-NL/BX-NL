@@ -7,19 +7,19 @@
 ## 介绍 About Me
 
 >**你好，这里是碧霄-凝落，你可以叫我凝落。**
-
+>
 >**Hello, here is Bechow·Ninglog, you can call me Ninglog.**
-
+>
 >**一个永远可爱的十七岁美少女。** ~~真的~~
-
+>
 >**A forever lovely seventeen-year-old beautiful-girl.** ~~Sure~~
-
+>
 >**喜欢奇思妙想，想法很多，但是代码写得一坨。**
-
+>
 >**I love brainstorming and have many ideas, but the code is a mess**
-
+>
 >**如果你对我感兴趣，就点个小关注吧。**
-
+>
 >**If you're interested in me, just give me a little follow.**
 
 ---
