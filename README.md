@@ -67,7 +67,6 @@
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BX-NL&bg_color=FFFFFF&color=66CCFF&line=39C5BB&point=FFC0C0&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
 ---
 
 ## 项目 Projects
@@ -88,9 +87,9 @@
 1.Video Box
 
 >视频盒子，用于Windows小型设备连接电视播放，包含手机控制的部分。
-
+>
 >Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Mobile Phone.
-
+>
 >Base on : Python, Shell, Java/Kotlin, XML, ArkTS?
 
     哔哩哔哩：手机作为遥控，考虑使用YOLOv5识别跳过广告。
@@ -104,9 +103,9 @@
 2.Galgame Manager
 
 >管理本地Galgame
-
+>
 >A softwave to manage Galgame in local PC.
-
+>
 >Base on : Python, PyQT, Shell
 
     自动扫描、修改封面、修改名称、鼠标悬停显示多语言名称、存档云备份
@@ -115,13 +114,13 @@
 3.视频网站
 
 >动漫、漫画、游戏、小说，以及你所期盼的一切。
-
+>
 >Anima, Comic, Game, Novel, and everything you looking forward to.
-
+>
 >你所热爱的，就是你的XX。
-
+>
 >Cherry, when the lemon done.
-
+>
 >Base on : Java, Python, MySQL, Redis, HTML
 
     难搞，未来可期
@@ -130,7 +129,7 @@
 0.Other
 
 >如果你闲着没事，还和我有相同的想法，欢迎完善以上的创意
-
+>
 >If you're idle and have the same idea as me, you're welcome to refine the above ideas
 
 ---
