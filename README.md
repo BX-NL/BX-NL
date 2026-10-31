@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=你好，我是凝落。;Hello,+I+am+Ninglog.&height=75&size=30&color=66CCFF&center=true&pause=1000">
     </a>
@@ -124,6 +124,6 @@
 
 ---
 
-## 联系我 Let's Connect!
+## 联系我 Let's Connect
 
 ⭐️ From [碧霄-凝落 (BX-NL)](https://github.com/BX-NL)
