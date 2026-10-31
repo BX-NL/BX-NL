@@ -73,7 +73,7 @@
 
 **目前正在做的**
 
-**I’m currently working on**
+**Now currently working on**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=BX-NL)](https://github.com/BX-NL/BX-NL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BX-NL&repo=AI-Intelligent-Assistant)](https://github.com/BX-NL/AI-Intelligent-Assistant)
