@@ -84,21 +84,10 @@
 
 **ToDo**
 
-1.Video Box
+1.Minecraft整合包
 
->视频盒子，用于Windows小型设备连接电视播放，包含手机控制的部分。
->
->Video Box, Use for Mini PC connect TV to playback, including the part controlled by the Mobile Phone.
->
->Base on : Python, Shell, Java/Kotlin, XML, ArkTS?
+~~三分钟热度半途而废高手~~
 
-    哔哩哔哩：手机作为遥控，考虑使用YOLOv5识别跳过广告。
-    Bilibili: Use Mobile Phone to remote control, skip ads with YOLOv5.
-
-    荐片播放器接入手机选剧，还没想好怎么做，可能先填搜索框，文字识别自动匹配选择。
-    Use Mobile Phone switch video in jianpian, I haven't figured out how to do it yet.Maybe fill search box in first, and then use OCR to auto choose.
-
-    尝试研究局域网投屏功能，连着SurfaceProPlus那边的一起。
 
 2.Galgame Manager
 
