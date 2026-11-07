@@ -96,7 +96,7 @@
 
 >管理本地Galgame
 >
->A softwave to manage Galgame in local PC.
+>A softwave to manage Galgames in local PC.
 >
 >Base on : Python, PyQT, Shell
 
