@@ -86,7 +86,7 @@
 
 1.Minecraft整合包
 
->Minecraft1.20.1科技整合包
+>Minecraft 1.20.1 科技整合包
 
 [Finality Walker](https://github.com/BX-NL/Finality-Walker)
 
