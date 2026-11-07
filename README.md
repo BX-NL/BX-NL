@@ -88,6 +88,8 @@
 
 Minecraft1.20.1科技整合包
 
+[Finality Walker](https://github.com/BX-NL/Finality-Walker)
+
 ~~三分钟热度半途而废高手，短时间内是搓不出来了~~
 
 2.Galgame Manager
